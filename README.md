@@ -1,6 +1,6 @@
 # bookSeat
 
-This project aims to book library seat for students in Wuhan University.
+This project aims to book library seat for student in Wuhan University.
 
 Features:  
 * automatically detect the captcha,saving you from inputting the captcha by hand.  
